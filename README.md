@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Backend%20Taehun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Backend%20Developer&fontSize=90)
 <!--
 **ekdh0858/ekdh0858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
