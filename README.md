@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 - 클라우드 컴퓨팅
 - 마이크로서비스 아키텍처
-- TDD(Test Driven Development)
 - DevOps 및 CI/CD
+- 데이터 시각화
 
 ---
 
