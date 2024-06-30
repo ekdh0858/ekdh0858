@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## 🔧 기술 스택
 
-- **프로그래밍 언어:** Java, Node.js
-- **프레임워크:** Spring Boot, Spring MVC, Hibernate, JPA, Express
+- **프로그래밍 언어:** Java
+- **프레임워크:** Spring Boot, Spring MVC, Hibernate, Spring JPA
 - **데이터베이스:** MySQL, PostgreSQL, MongoDB
-- **기타:** Docker, Aws EC2, AWS S3
+- **기타:**  Aws EC2, AWS S3
 
 
 ## 📫 연락처
