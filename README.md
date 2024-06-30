@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 📈 깃허브 통계
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekdh0858&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdh0858&layout=compact&theme=radical)
+
 
 ## 🌟 관심사
 
