@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - 개인 프로젝트
   - 게시판 서비스 : 강의를 보면서 만들어보고 배포까지 해 본 서비스, 깃 허브의 프로젝트 기능을 사용하여 꼼꼼히 기록<br/>
     주요 사용 기술 : Spring JPA, Spring Security(Oauth2,client), mySQL, QueryDSL, Thymeleaf, heroku<br/>
-    프로젝트 링크 : [게시판 서비스] (https://github.com/ekdh0858/PROJECT_BOARD)<br/>
+    프로젝트 링크 : [게시판 서비스](https://github.com/ekdh0858/PROJECT_BOARD)<br/>
     
 ### 진행중 프로젝트 
   - [페스티벌 API](https://github.com/ekdh0858/festival) : 공공 축제 API를 사용하여 DB에 저장하고 가공하는 API를 제공<br/>
