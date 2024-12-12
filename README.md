@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     주요 사용 기술 : Spring JPA, Spring Security(Oauth2,client), mySQL, QueryDSL, Thymeleaf, heroku<br/>
     프로젝트 링크 : [게시판 서비스](https://github.com/ekdh0858/PROJECT_BOARD)<br/>
     
-### 진행중 프로젝트 
+### 미완 프로젝트 
   - [페스티벌 API](https://github.com/ekdh0858/festival) : 공공 축제 API를 사용하여 DB에 저장하고 가공하는 API를 제공<br/>
   - [스위프트 - 맵스토리](https://github.com/orgs/Map-Story/repositories) : 장소에 대한 기록을 남기는 서비스<br/>
 
@@ -68,5 +68,8 @@ Here are some ideas to get you started:
 ---
 
 좋은 코드를 작성하고 지속적으로 성장하는 개발자가 되기 위해 항상 노력하고 있습니다. 함께 협업할 수 있는 기회를 기다리고 있겠습니다!
+블로그들(아직 부족한 점이 많지만 노력해서 발전하겠습니다.)
+[tistory 블로그](https://taehun0858.tistory.com/)
+[naver 블로그](https://blog.naver.com/ekdh0858) 
 
 
