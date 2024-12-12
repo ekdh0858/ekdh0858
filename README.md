@@ -67,9 +67,10 @@ Here are some ideas to get you started:
 
 ---
 
-좋은 코드를 작성하고 지속적으로 성장하는 개발자가 되기 위해 항상 노력하고 있습니다. 함께 협업할 수 있는 기회를 기다리고 있겠습니다!
-블로그들(아직 부족한 점이 많지만 노력해서 발전하겠습니다.)
-[tistory 블로그](https://taehun0858.tistory.com/)
+좋은 코드를 작성하고 지속적으로 성장하는 개발자가 되기 위해 항상 노력하고 있습니다. 함께 협업할 수 있는 기회를 기다리고 있겠습니다!<br/>
+
+### 블로그들(아직 부족한 점이 많지만 노력해서 발전하겠습니다.)
+[tistory 블로그](https://taehun0858.tistory.com/)<br/>
 [naver 블로그](https://blog.naver.com/ekdh0858) 
 
 
